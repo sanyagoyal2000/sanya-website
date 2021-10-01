@@ -15,6 +15,7 @@ function ProjectsPage() {
 
         if(button === 'All'){
             setMenuItems(projects);
+            setButtons();
             return;
         }
 
