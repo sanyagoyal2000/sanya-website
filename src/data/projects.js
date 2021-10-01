@@ -60,7 +60,7 @@ const portfolios = [
         category: 'Next.js',
         image: port,
         link1: 'https://github.com/sanyagoyal2000/portfolio-website',
-        link2: 'portfolio-website-olive.vercel.app',
+        link2: 'https://portfolio-website-olive.vercel.app/',
         title: 'Responsive Portfolio Website',
         text: 'Created using different technologies such as Material UI,tailwind css,next.js and more...'
     },
