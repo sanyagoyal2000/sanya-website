@@ -26,7 +26,7 @@ function ProjectsPage() {
             <Title title={'Projects'} span={'projects'} />
             <InnerLayout>
 
-                <Button filter={filter} button={button} />
+                <Button filter={filter} button={button} onClick={()=>{setButton()} />
                 <Menu menuItem={menuItem} />
             </InnerLayout>
         </MainLayout>
