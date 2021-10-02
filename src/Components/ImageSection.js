@@ -12,9 +12,9 @@ function ImageSection() {
             <div className="right-content">
                 <h4>I am <span>Sanya Goyal</span></h4>
                 <p className="paragraph">
-                    I am an Indian student in my junior year at Delhi Technological University.I doing my BTech. in 
+                    I am an Indian student in my junior year at Delhi Technological University.I am doing my BTech. in 
                     Computer Science Engineering.I am doing my minor in Data Analytics.I am proficient in C++ and C.Currently,I am exploring various front end 
-                    frameworks and javascripts libraries like react.js,next.js,etc.
+                    frameworks and javascript based libraries like react.js,next.js,etc.
                     
                 </p>
                 <div className="about-info">
