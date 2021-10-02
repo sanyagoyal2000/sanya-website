@@ -40,7 +40,7 @@ function Resume() {
                         year={'2019-2023'} 
                         title={'BTech in Computer Engineering'}
                         subTitle={'Delhi Technological University'}
-                        text={'8.90 cgpa till 4th semester. '} 
+                        text={'8.90 CGPA till 4th semester. '} 
                     />
                     <ResumeItem 
                         year={'2017 - 2019'} 
@@ -52,7 +52,7 @@ function Resume() {
                         year={'2015 - 2017'} 
                         title={'Class 10th'}
                         subTitle={'Delhi Public School,Sector 45 Gurgaon'}
-                        text={'10 cgpa'} 
+                        text={'10 CGPA'} 
                     />
                 </div>
             </InnerLayout>
