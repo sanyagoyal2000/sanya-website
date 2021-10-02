@@ -26,7 +26,7 @@ const portfolios = [
         link1: 'https://github.com/sanyagoyal2000/airbnb-clone',
         link2: 'https://airbnb-clone-professioanled.vercel.app/',
         title: 'AirBnb Clone',
-        text: 'An airbnb clone using next.js and tailwind css'
+        text: 'An Airbnb clone using next.js and tailwind css'
     },
     {
         id: 3,
@@ -35,7 +35,7 @@ const portfolios = [
         link1: 'https://github.com/sanyagoyal2000/shellhacks2021',
         link2: 'https://professionaled.vercel.app',
         title: 'professionaled',
-        text: ' Created using React,js and Tailwind css and firebase.'
+        text: ' Created using React.js and Tailwind css and firebase.'
     },
     {
         id: 4,
