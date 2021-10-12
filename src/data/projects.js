@@ -24,7 +24,7 @@ const portfolios = [
         category: 'Next.js',
         image: air,
         link1: 'https://github.com/sanyagoyal2000/airbnb-clone',
-        link2: 'https://airbnb-clone-professioanled.vercel.app/',
+        link2: 'https://airbnb-sanyagoyal2000.vercel.app/',
         title: 'AirBnb Clone',
         text: 'An Airbnb clone using next.js and tailwind css'
     },
